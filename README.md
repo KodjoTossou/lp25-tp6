@@ -234,5 +234,3 @@ Dans ce TP, vous avez eu l'occasion de vous familiariser avec les notions et fon
 - les énumérations `enum` pour définir des plages de valeurs limitées
 - les limites des tailles de données avec les valeurs de dépassement des types numériques
 - les masques binaires pour limiter la lecture à une sous-partie des bits d'une variable.
-
-### NB : TP proposé par Frédéric Lassabe
